@@ -8,4 +8,3 @@ function boolChecker(bool) {
 }
 
 boolChecker(true);
-
