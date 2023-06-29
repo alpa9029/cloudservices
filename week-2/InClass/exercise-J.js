@@ -7,5 +7,3 @@ function secondMatchesAmy(array) {
 }
 names = ["Ranin", "Amy2", "Anne"];
 console.log(secondMatchesAmy(names))
-
-
