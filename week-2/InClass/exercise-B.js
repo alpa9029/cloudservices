@@ -12,4 +12,3 @@ function boolChecker(bool) {
  let message =  boolChecker(true);
  console.log(message)
  console.log("Any time!");
- 
